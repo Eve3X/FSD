@@ -33,7 +33,7 @@ if(!isset($user_id)){
 
 <div class="heading">
    <h3>about us</h3>
-   <p> <a href="home.php">home</a> / about </p>
+   <p> <a href="home.php">home lmaonuyhy8hbyu8hbyu8</a> / about </p>
 </div>
 
 <section class="about">
@@ -45,7 +45,7 @@ if(!isset($user_id)){
       </div>
 
       <div class="content">
-         <h3>About us</h3>
+         <h3>About u y8ty8ts</h3>
          <p></p>
          <p></p>
          <a href="contact.php" class="btn">contact us</a>
